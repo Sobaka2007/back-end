@@ -42,6 +42,6 @@ def encrypt(text, key):
     print(output_txt)
     return output_txt
 
-app.run(host="0.0.0.0", port=5002)
+app.run(host="0.0.0.0", port=9004)
 
 
